@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="war-javamergelheide">
+    <output-path>$PROJECT_DIR$/out/artifacts/war_javamergelheide</output-path>
+    <root id="root" />
+  </artifact>
+</component>
